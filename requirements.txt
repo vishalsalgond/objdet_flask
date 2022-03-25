@@ -19,7 +19,7 @@ Flask-Bootstrap==3.3.7.1
 idna==3.2
 iniconfig==1.1.1
 isort==5.8.0
-itsdangerous==1.1.0
+itsdangerous
 Jinja2==2.11.2
 joblib==1.0.1
 keras==2.6.0
