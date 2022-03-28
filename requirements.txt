@@ -47,6 +47,7 @@ pylint==2.7.2
 pyparsing==2.4.7
 pytest==6.2.4
 python-dateutil==2.8.1
+python3-opencv
 pytz==2020.5
 PyYAML==5.4.1
 regex==2021.7.6
