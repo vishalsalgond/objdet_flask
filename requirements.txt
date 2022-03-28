@@ -35,6 +35,7 @@ nltk==3.6.2
 numpy
 opencv-contrib-python==4.5.3.56
 opencv-python
+opencv-python-headless
 packaging==21.0
 pandas==1.2.0
 Pillow==8.1.0
