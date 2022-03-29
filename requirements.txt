@@ -59,6 +59,7 @@ skia-python
 sklearn==0.0
 sqlparse==0.4.1
 termcolor==1.1.0
+tensorflow-cpu
 threadpoolctl==2.2.0
 toml==0.10.2
 tqdm==4.62.0
